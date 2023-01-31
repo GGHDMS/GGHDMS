@@ -13,6 +13,5 @@
 <br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGHDMS&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=GGHDMS&show_icons=true">
+
 </div>
