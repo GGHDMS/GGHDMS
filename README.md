@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # SeokMun's github
 
 <div align="center">
@@ -20,12 +18,12 @@
 
 <br>
 
-## Project
+# Project
 
-[복지 서비스 프로젝트](#https://github.com/GGHDMS/bokgpt)
+- [복지 서비스 프로젝트](https://github.com/GGHDMS/bokgpt)
 
-[CRUD 게시판 프로젝트](#https://github.com/GGHDMS/board-project)
+- [CRUD 게시판 프로젝트](https://github.com/GGHDMS/board-project)
 
-[가까운 약국 찾기 프로젝트](#https://github.com/GGHDMS/pharmacy-recommendation)
+- [가까운 약국 찾기 프로젝트](https://github.com/GGHDMS/pharmacy-recommendation)
 
 
