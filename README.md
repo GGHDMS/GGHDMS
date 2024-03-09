@@ -42,6 +42,26 @@
 <br>
 
 <div>
+	
+## Project
+
+- [독서 기록 프로젝트](https://github.com/BookitList/BookitList_backend)
+
+- [동물 소개팅 프로젝트](https://github.com/yourssu/SSUDate-Server)
+  
+- [복지 서비스 프로젝트](https://github.com/GGHDMS/bokgpt)
+
+## Study
+
+- [코틀린을 사용한 CRUD](https://github.com/GGHDMS/kotlin-board)
+
+- [CRUD 게시판 프로젝트](https://github.com/GGHDMS/board-project)
+
+</div>
+
+<br>
+
+<div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGHDMS&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=GGHDMS&show_icons=true">
 </div>
@@ -49,12 +69,6 @@
 
 <br>
 
-# Project
 
-- [복지 서비스 프로젝트](https://github.com/GGHDMS/bokgpt)
-
-- [CRUD 게시판 프로젝트](https://github.com/GGHDMS/board-project)
-
-- [가까운 약국 찾기 프로젝트](https://github.com/GGHDMS/pharmacy-recommendation)
 
 
