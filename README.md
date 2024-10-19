@@ -45,7 +45,7 @@
 	
 ## 🚀Project
 - [리마인더 소통 메신저](https://github.com/soma-baekgu/A-Maker-BE)
-- 
+
 - [독서 기록 프로젝트](https://github.com/BookitList/BookitList_backend)
 
 - [동물 소개팅 프로젝트](https://github.com/yourssu/SSUDate-Server)
