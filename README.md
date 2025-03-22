@@ -1,9 +1,3 @@
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seokmun's%20github&fontSize=90" alt="Header Image">
-</div>
-
-<br>
-
 ## 👨‍💻 Hello!!
 - SW로 세상을 바꾸고 싶은, 백엔드 개발자 허석문입니다.
 	
