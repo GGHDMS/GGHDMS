@@ -3,6 +3,18 @@
 	
 <br>
 
+<div>
+
+## 💻Open Source Contributions
+
+- [spring-batch](https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3AGGHDMS)
+  - Fix `ExecutionContext` dirty flag set to false on same value put or null put [#4691](https://github.com/spring-projects/spring-batch/pull/4691)
+
+
+</div>
+
+<br>
+
 ## 🛠️ Tech Stack 🛠️
 
 
@@ -33,17 +45,6 @@
 
 </div>
 
-<br>
-
-<div>
-
-## 💻Open Source Contributions
-
-- [spring-batch](https://github.com/spring-projects/spring-batch/pulls?q=is%3Apr+author%3AGGHDMS)
-  - Fix `ExecutionContext` dirty flag set to false on same value put or null put [#4691](https://github.com/spring-projects/spring-batch/pull/4691)
-
-
-</div>
 
 <div>
 	
